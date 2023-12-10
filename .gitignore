@@ -1,6 +1,8 @@
 /.vscode
 /node_modules
 /windows/Sample-Fabric/Generated Files/
+/windows/packages
+/windows/x64
 /build
 /errorShots
 /reports
